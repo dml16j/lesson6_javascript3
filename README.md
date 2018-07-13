@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 13, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Duncan Lopatine)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project, I had to complete a photo gallery application on a website by editing javascript and html files.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dml16j.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create functions that tell images what to do.)
+2. (I learned how to use existingNode in its correct format to help your page do what you want it to do.)
+3. (I learned how to add event listeners to code for a photo gallery.)
